@@ -1,14 +1,14 @@
 {
     "user": {
-        "api_id": "1234567",
-        "api_hash": "4p1-h4$h_H3r3",
-        "session_name": "Telethon Session"
+        "api_id": "1071839",
+        "api_hash": "058f4692e761b819dc136208b068ae3d",
+        "session_name": "@washington543"
     },
     "bot": {
-        "token": "your_bot_token_here"
+        "token": "832646645"
     },
     "groups" {
-        "names": ["Group Name", "Other Group Name"],
+        "names": ["Sorteio sexcoin", "Other Group Name"],
         "restricted": [1234567, 1234567]
     }
 }
